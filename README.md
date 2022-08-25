@@ -10,9 +10,9 @@ Checkout the backend [here](https://github.com/giuraionut/social-app-backend).
 
 # Gallery
 
-![Image1](https://github.com/giuraionut/images/blob/main/social-app/png/posts-page.png)
-![Image1](https://github.com/giuraionut/images/blob/main/social-app/png/comments-page.png)
-![Image1](https://github.com/giuraionut/images/blob/main/social-app/png/create-post.png)
-![Image1](https://github.com/giuraionut/images/blob/main/social-app/png/user-profile-communities.png)
-![Image1](https://github.com/giuraionut/images/blob/main/social-app/png/user-profile-posts.png)
-![Image1](https://github.com/giuraionut/images/blob/main/social-app/png/user-profile-settings.png)
+![Posts Page](https://github.com/giuraionut/images/blob/main/social-app/png/posts-page.png)
+![Comments Page](https://github.com/giuraionut/images/blob/main/social-app/png/comments-page.png)
+![Create post](https://github.com/giuraionut/images/blob/main/social-app/png/create-post.png)
+![User profile communities](https://github.com/giuraionut/images/blob/main/social-app/png/user-profile-communities.png)
+![User profile posts](https://github.com/giuraionut/images/blob/main/social-app/png/user-profile-posts.png)
+![User profile settings](https://github.com/giuraionut/images/blob/main/social-app/png/user-profile-settings.png)
