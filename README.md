@@ -6,7 +6,7 @@
 
 ### Social Application frontend based on [Reddit](https://www.reddit.com/) made with Angular
 
-Checkout the backend [here](https://github.com/giuraionut/social-app-backend).
+Check out the backend [here](https://github.com/giuraionut/social-app-backend).
 
 # Gallery
 
